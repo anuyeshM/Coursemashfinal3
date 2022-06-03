@@ -2,11 +2,16 @@ import React, { useState } from "react"
 
 import axios from "axios"
 import { useHistory } from "react-router-dom"
+
+
+
 import { MDBContainer, MDBRow, MDBCol, MDBBtn } from "../../../node_modules/mdb-react-ui-kit";
 
 const Register = () => {
 
     const history = useHistory()
+   
+
 
     const [ user, setUser] = useState({
         name: "",
@@ -26,15 +31,23 @@ const Register = () => {
     const register = () => {
         const { name, email, password, reEnterPassword } = user
         if( name && email && password && (password === reEnterPassword)){
-            axios.post("http://localhost:3033/register", user)
+            axios.post("http://localhost:3031/register", user)
             .then( res => {
                 alert(res.data.message)
-                history.push("/login")
-            })
+               
+                
+                   
+  
+            }).catch(function (error) {
+                console.log(error);
+              });
         } else {
             alert("invlid input")
         }
         
+    }
+    const pushing = () =>{
+        history.push('/Community');
     }
 
     return (
@@ -43,6 +56,7 @@ const Register = () => {
     <div class="register">
   <MDBCol md="6">
     <form>
+    {console.log("User", user)}
       <p className="h4 text-center mb-4">Sign up</p>
       <label htmlFor="defaultFormLoginEmailEx" className="grey-text mb-5">
        
@@ -80,10 +94,13 @@ const Register = () => {
        
       </label>
       <div className="text-center m-4">
-        <MDBBtn color="success" type="submit" onClick={register}>
+        <MDBBtn color="success" type="submit" onClick={() => {
+          register();
+         pushing();
+        }}>
          REGISTER
         </MDBBtn>
-        <MDBBtn color="indigo" type="submit" onClick={() => history.push("/login")}>
+        <MDBBtn color="indigo" type="submit" onClick={() => history.push("/Profile")}>
          LOG IN
         </MDBBtn>
       </div>
