@@ -1,0 +1,14 @@
+.course-container:hover{
+    background-color: azure;
+}
+.app{
+    text-align: center;
+   
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+    width: 100%;
+    height: 100%;
+}
+

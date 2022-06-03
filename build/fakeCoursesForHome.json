@@ -1,0 +1,145 @@
+[
+  {
+    "id": 1,
+    "title": "Full Stack Web Development with Vue Js, NodeJS, MongoDB, JS",
+    "institute": "Brad Robinson",
+    "rating": 4.7,
+    "totalRate": "858",
+    "level": "Intermediate",
+    "price":499,
+    "imgUrl": "https://i.postimg.cc/brj3T0pV/Ux-ui-design.png",
+    "videoId": "eTtZLiMFl_4",
+    "description": "Using the latest best practices in Web Design and Mobile Design as well as User Interface and User Experience Design (UI/UX), this course focuses on efficiently getting you from zero to a point where you can get hired or win freelance contracts. We will use in demand tools like Figma to show you a full workflow from start to finish. Graduates of Andrei’s courses are now working at Google, Tesla, Amazon, Apple, IBM, JP Morgan, Facebook, + other top tech companies.The curriculum is going to be very hands on as we walk you from start to finish of working as a Designer, all the way into learning how to create final professional designs and then converting them into actual websites or apps using HTML and CSS. "
+    
+  },
+  
+  {
+    "id": 2,
+    "title": "The Complete NFT Course - Learn Everything About NFTs",
+    "institute": "Digital Nest",
+    "rating": 4.8,
+    "totalRate": "1.2k",
+    "level": "Beginner to Advanced",
+    "price": 4999,
+    "imgUrl": "https://i.postimg.cc/2Shvd103/NFT.png",
+    "videoId": "Qsn7w0WS7HQ",
+    "description": "Learn NFTs from an award-winning digital agency owner who has invested over 6 figures of their own money into NFTs During this course, you will see me win an NFT project giveaway and also sell that exact same NFT for over $5,000 profit Important: I’m not here to sell you a dream or make fake promises on how much money you can make, this is an educational course that will reveal everything you need to know when it comes to taking advantage of this lucrative NFT industry.."
+    
+  },
+  {
+    "id": 3,
+    "title": "Metaverse Masterclass- Learn Everything about the Metaverse!",
+    "institute": "Digital Nest",
+    "rating": 4.8,
+    "totalRate": "1.2k",
+    "level": "Beginner to Advanced",
+    "price": 4999,
+    "imgUrl": "https://i.postimg.cc/sgMzbWkD/Metaverse.png",
+    
+    "description": "So... What is the Metaverse exactly? What are the technologies behind it? What are the potentials? How could we invest in it?When we talk about 'the Metaverse now it's a bit like discussing what the internet meant in the 1990s. There are so many misunderstandings and misconceptions out there, which you may find yourself really confused about. But, no worries, I've got you covered! In this 3-hours Masterclass, you will learn everything: the technologies, the industries that will be disrupted by it, how to get involved and how to invest in new Metaverse opportunities. "
+    
+  },
+
+  
+  {
+    "id": 4,
+    "title": "Amazon FBA Course - How to Sell on Amazon",
+    "institute": "Sellers Central",
+    "rating": 4.8,
+    "totalRate": "2.3k",
+    "level": "Beginner to Advanced",
+    "price": 999,
+    "imgUrl": "https://i.postimg.cc/D0s8PsBZ/Amazon-FBA.png",
+    "description": "Designed for you if you are either a complete novice, or you already sell on Amazon but want to get better results. The course contains over 100 video lessons which range from 3 minutes to 20 minutes in length. You will learn every single step required for earning a significant bi-weekly income.Starting with preparation and setting expectations so that you know what to expect when you begin your journey. Moving on to follow a specific set of rules to discover the easiest and most profitable items to sell and where to get them.After completing the course you will be able to quickly identify the best items to sell on Amazon. Know where and how to get these items. Be able to create listings that act as a magnet to Amazon visitors. Know how to use advanced tactics to double your sales and understand how to start small and scale up fast."
+   
+  },
+  {
+    "id": 5,
+    "title": "Complete Machine Learning Bootcamp 2022",
+    "institute": "DeepLearning.AI",
+    "rating": 4.8,
+    "totalRate": "1.1k",
+    "level": "Intermediate",
+    "price": 499,
+    "imgUrl": "https://i.postimg.cc/ryCTxQ94/ML.png",
+    "description": "Learn Data Science and Machine Learning from scratch, get hired, and have fun along the way with the most modern, up-to-date Data Science course on Udemy (we use the latest version of Python, Tensorflow 2.0 and other libraries). This course is focused on efficiency: never spend time on confusing, out of date, incomplete Machine Learning tutorials anymore. We are pretty confident that this is the most comprehensive and modern course you will find on the subject anywhere (bold statement, we know).The curriculum is going to be very hands on as we walk you from start to finish of becoming a professional Machine Learning and Data Science engineer. The course covers 2 tracks. If you already know programming, you can dive right in and skip the section where we teach you Python from scratch. If you are completely new, we take you from the very beginning and actually teach you Python and how to use it in the real world for our projects."
+    
+  },
+  {
+    "id": 6,
+    "title": "The Complete Foundation Stock Trading Course",
+    "institute": "Nesero Academy",
+    "rating": 4.7,
+    "totalRate": "4.5k",
+    "level": "Advanced",
+    "price": 999,
+    "imgUrl":"https://i.postimg.cc/h4MwKwr2/Trading.png",
+    "description": "In this course you will learn everything you need to know to start Trading the Forex Market right now! By the end of this course you will understand the History of Money and understand the Structure of the FOREX Market. You will know all FOREX terminology like: Bid, Ask, Spread, Pips, Points, Lots, Short Selling, Leverage and Much More! You will also be receiving a Excel Sheet to calculate your position sizing and keep track of your historical performance! Going further than other trading courses we even cover Trading Psychology. Something that we have noticed has a huge impact on trading performance!"
+    
+
+    
+  },
+  {
+    "id": 7,
+    "title": "Complete guide on options trading",
+    "institute": "Adam Ku",
+    "rating": 4.7,
+    "totalRate": "4.2k",
+    "level": "Begginer to Advance",
+    "price": 9999,
+    "imgUrl": "https://i.postimg.cc/kXMZ0qXy/options-trading.jpg",
+    "videoId": "",
+    "description": "In this Options Trading course, President of Capstone Financial & Author of Options Trading Strategies for Monthly Income David J. Melilli will educate you on every aspect of options trading.  David will implement his unique options trading process utilizing his extensive knowledge in the area of  options trading.  David has spent over fifteen years in the options trading arena.  This options trading course is taught in an easy to understand, user friendly manner that will excite and help build the confidence to master options trading and it has been designed to educate and enhance every individual that wants to really develop the skills required in the world of options trading. "
+  },
+  {
+    "id": 8,
+    "title": "Complete & Data Science Bootcamp 2022",
+    "institute": "University of Colorado Boulder",
+    "rating": 4.7,
+    "totalRate": "663",
+    "level": "Advanced",
+    "price": 499,
+    "imgUrl": "https://i.postimg.cc/HLH4cWWX/DScience.png",
+    "description": "Learn Data Science and Machine Learning from scratch, get hired, and have fun along the way with the most modern, up-to-date Data Science course on Udemy (we use the latest version of Python, Tensorflow 2.0 and other libraries). This course is focused on efficiency: never spend time on confusing, out of date, incomplete Machine Learning tutorials anymore. We are pretty confident that this is the most comprehensive and modern course you will find on the subject anywhere (bold statement, we know).The curriculum is going to be very hands on as we walk you from start to finish of becoming a professional Machine Learning and Data Science engineer. The course covers 2 tracks. If you already know programming, you can dive right in and skip the section where we teach you Python from scratch. If you are completely new, we take you from the very beginning and actually teach you Python and how to use it in the real world for our projects."
+    
+  },
+  {
+    "id": 9,
+    "title": "The Comprehensive Android App Development Masterclass",
+    "institute": "Duke University",
+    "rating": 4.9,
+    "totalRate": "2.3k",
+    "level": "Advance",
+    "price": 499,
+    "imgUrl": "https://i.postimg.cc/t41C3FJH/app-development.png",
+    "description": "To bring you our most comprehensive Android course yet. A rigorously tested, exhaustive (yet fun) course with serious thud factor. AKA our most extensive, thorough and detailed course on Android EVER.In fact, click to buy this course, and you’ll get a COLOSSAL 35+ hours of delicious, chocolate-chipped, Oreo flavoured goodness to devour and enjoy at your leisure. You’ll want to hungrily race through each digestible chapter as you naturally and easily consume each skill. f you want to learn how to create Android apps without all the hassle of learning the entire history of Android, this course is a must. A lot of tutorials dive way to deep into theory which may result in tutorials becoming boring. Luckily, this is not the case here!"
+    
+  },
+  {
+    "id": 10,
+    "title": "Complete Guide on Social Media Marketing",
+    "institute": "JCmargaret",
+    "rating": 4.6,
+    "totalRate": "3.4k",
+    "level": "Intermediate",
+    "price": 499,
+    "videoId":"a0D3kTVpAYM",
+    "imgUrl": "https://i.postimg.cc/XqSd6jb7/social-media-marketing.jpg",
+    "description": "Want to become a SocialMedia Ads expert? JOIN THE 500+ COMPANIES I HAVE CONSULTED ON SOCIAL MEDIA MARKETING AND INCREASED CONVERSIONS FOR VIA FACEBOOK AND INSTAGRAM ADS! Facebook Marketing is a REQUIRED skill for anyone with a business, product, service, brand, or public figure they need to PROMOTE! Join our 300,000+ modMBA students who have MASTERED Facebook advertising with this COMPLETE Facebook Marketing Mastery Course! "
+  
+
+    
+  },
+  {
+    "id": 1,
+    "title": "Digital Marketing:  Made Easy",
+    "institute": "Digital Nest",
+    "rating": 4.8,
+    "totalRate": "1.2k",
+    "level": "Beginner to Advanced",
+    "price": 499,
+    "imgUrl": "https://i.postimg.cc/x8gXcYCj/Digital-Marketing.png",
+    "description": "At Oxford Learning Lab we know how busy you are to keep up with the latest development in technology. We decided to introduce a Fast-Track program starting from SEO These powerful lessons enable you to be a more effective marketer without waste time in useless presentations Our Digital Marketing Management course is perfect for the professionals - either independent or working for a company - to have an all-around understanding of the subject and able to solve practical problems or talk with subject matter experts with ease.."
+    
+  }
+]
