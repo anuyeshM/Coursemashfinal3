@@ -33,7 +33,7 @@ const BannerHome = (props) => {
     loop: true,
   }}
 /></h1>
-                        <p>Build skills with courses, certificates, and degrees online from world-class universities and companies.</p>
+                        <p>Make smart friends, learn from experts, and network like you’ve never done before. It’s a place to have fun, get amazing opportunities, and make new friends!</p>
                         <button className='btn btn-primary px-5 py-3 me-2' onClick={()=>{navigateTo(); ClickHandler()}}>Join Now!</button>
                         
                     </div>
