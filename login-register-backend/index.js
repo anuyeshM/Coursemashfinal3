@@ -11,7 +11,7 @@ app.use(express.json());
 app.use(express.urlencoded());
 app.use(cors());
 
-mongoose.connect("mongodb+srv://anuyesh:Bubun12345@cluster0.4ofh3we.mongodb.net/?retryWrites=true&w=majority", connectionOptions)
+mongoose.connect("mongodb+srv://anuyesh:Bubun@12345@cluster0.yictv.mongodb.net/?retryWrites=true&w=majority", connectionOptions)
     .then(() => console.log("Connected successfully"))
     .catch((err) => console.error(err));
 
