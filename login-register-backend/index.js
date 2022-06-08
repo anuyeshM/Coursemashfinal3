@@ -2,7 +2,7 @@ const express = require("express");
 const cors = require("cors");
 const mongoose = require("mongoose");
 
-const PORT = process.env.PORT || 3033;
+const PORT = process.env.PORT || 3031;
 const app = express();   
 const connectionOptions = { useUnifiedTopology: true, useNewUrlParser: true};
 
